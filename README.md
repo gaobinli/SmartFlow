@@ -11,3 +11,9 @@ SpringCloud、Spring Boot、SpringCloud Alibaba、MyBatis-Plus、Redis、Nacos�
 - **Seata分布式事务落地**：为确保任务审批等流程中跨服务数据一致性，采用Seata分布式事务框架的AT模式，解决微服务架构下的数据一致性挑战。
 - **接口鉴权体系搭建**：设计并开发基于自定义注解与AOP的服务接口鉴权与内部认证体系，实现细粒度的权限控制。
 - **容器化环境部署**：采用Docker Compose搭建标准化项目环境，降低环境配置复杂度与差异性，实现容器化部署。
+
+### 项目展示
+![41b8b48b66e2c5b0477440f5b87abe3d](https://temp.fenx.top/temp/20251218/4d2d3612889fea1213e0fec6c6941046.png)
+![76c2516778a339077cef8e79c28409ba](https://temp.fenx.top/temp/20251218/3ac1b8079d60a03c98afa02faf52da59.png)
+![6257edf48e0816817e1b812adc81ef88](https://temp.fenx.top/temp/20251218/0d9381ac8bc41049d0c63c72d961f44f.png)
+![9950f80f3be7a0a8b1f3e56f2d5206cd](https://temp.fenx.top/temp/20251218/1c7dbf2862f0ba738342106950a9ff88.png)
