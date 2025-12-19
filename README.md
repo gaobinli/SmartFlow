@@ -13,7 +13,7 @@ SpringCloud、Spring Boot、SpringCloud Alibaba、MyBatis-Plus、Redis、Nacos�
 - **容器化环境部署**：采用Docker Compose搭建标准化项目环境，降低环境配置复杂度与差异性，实现容器化部署。
 
 ### 项目展示
-![41b8b48b66e2c5b0477440f5b87abe3d](https://temp.fenx.top/temp/20251218/4d2d3612889fea1213e0fec6c6941046.png)
-![76c2516778a339077cef8e79c28409ba](https://temp.fenx.top/temp/20251218/3ac1b8079d60a03c98afa02faf52da59.png)
-![6257edf48e0816817e1b812adc81ef88](https://temp.fenx.top/temp/20251218/0d9381ac8bc41049d0c63c72d961f44f.png)
-![9950f80f3be7a0a8b1f3e56f2d5206cd](https://temp.fenx.top/temp/20251218/1c7dbf2862f0ba738342106950a9ff88.png)
+[![pZ1s5Mn.png](https://s41.ax1x.com/2025/12/19/pZ1s5Mn.png)](https://imgchr.com/i/pZ1s5Mn)
+[![pZ1sf2j.png](https://s41.ax1x.com/2025/12/19/pZ1sf2j.png)](https://imgchr.com/i/pZ1sf2j)
+[![pZ1sIrq.png](https://s41.ax1x.com/2025/12/19/pZ1sIrq.png)](https://imgchr.com/i/pZ1sIrq)
+[![pZ1shxs.png](https://s41.ax1x.com/2025/12/19/pZ1shxs.png)](https://imgchr.com/i/pZ1shxs)
